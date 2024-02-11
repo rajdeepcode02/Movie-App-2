@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//rajdeepcode02.github.io/Movie-App/static/css/main.d1f88aea.css",
+    "main.js": "//rajdeepcode02.github.io/Movie-App/static/js/main.21754d34.js",
+    "index.html": "//rajdeepcode02.github.io/Movie-App/index.html",
+    "main.d1f88aea.css.map": "//rajdeepcode02.github.io/Movie-App/static/css/main.d1f88aea.css.map",
+    "main.21754d34.js.map": "//rajdeepcode02.github.io/Movie-App/static/js/main.21754d34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1f88aea.css",
+    "static/js/main.21754d34.js"
+  ]
+}
